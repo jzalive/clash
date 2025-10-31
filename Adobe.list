@@ -4,8 +4,10 @@
 # DOMAIN: 4
 # DOMAIN-SUFFIX: 4
 # TOTAL: 4
+DOMAIN-KEYWORD,adobe
 DOMAIN-SUFFIX,adobe.io
 DOMAIN-SUFFIX,adobe.com
 DOMAIN-SUFFIX,adobess.com
+DOMAIN-SUFFIX,adobeccstatic.com
 DOMAIN-SUFFIX,photoshop.com
 DOMAIN-SUFFIX,firefly.adobe.com
