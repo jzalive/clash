@@ -1,12 +1,13 @@
 # NAME: Adobe
 # AUTHOR: jzalive
 # UPDATED: 2025-10-26 17:300:00
-# DOMAIN: 6
-# DOMAIN-SUFFIX: 6
-# TOTAL: 6
+# DOMAIN: 7
+# DOMAIN-SUFFIX: 7
+# TOTAL: 7
 DOMAIN-SUFFIX,adobe.io
 DOMAIN-SUFFIX,adobe.com
 DOMAIN-SUFFIX,adobess.com
 DOMAIN-SUFFIX,adobeccstatic.com
 DOMAIN-SUFFIX,photoshop.com
 DOMAIN-SUFFIX,firefly.adobe.com
+DOMAIN-SUFFIX,typekit.net
