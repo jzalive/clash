@@ -1,0 +1,13 @@
+# NAME: HuggingFace
+# AUTHOR: jzalive
+# UPDATED: 2025-10-26 17:30:00
+# DOMAIN: 
+# DOMAIN-SUFFIX: 
+# TOTAL: 
+DOMAIN-SUFFIX,huggingface.co
+DOMAIN-SUFFIX,api-inference.huggingface.co
+DOMAIN-SUFFIX,cdn-lfs.huggingface.co
+DOMAIN-SUFFIX,cdn.huggingface.co
+DOMAIN-SUFFIX,inference-api.huggingface.co
+DOMAIN-SUFFIX,enterprise.huggingface.co
+DOMAIN-SUFFIX,auth.huggingface.co
