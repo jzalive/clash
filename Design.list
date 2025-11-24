@@ -8,3 +8,4 @@ DOMAIN-SUFFIX,freepik.com
 DOMAIN-SUFFIX,unsplash.com
 DOMAIN-SUFFIX,pixabay.com
 DOMAIN-SUFFIX,pinterest.com
+IP-CIDR,152.53.166.72/32:3000
